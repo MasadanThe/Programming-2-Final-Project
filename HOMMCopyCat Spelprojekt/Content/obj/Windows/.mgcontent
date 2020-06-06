@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/AvslutaVald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Bana1Vald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Bana2Vald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Boris.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/City.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Enemy.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/FightingGrass.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/File.spritefont</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Grass.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Knight.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/KnightBuilding.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/LaddaInVald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/LättVald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/MedelVald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/NextTurn.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/NyttSpelVald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/PoisonMaster.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/PoisonMasterBuilding.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Pugilist.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/PugilistBuilding.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Pyromancer.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/PyromancerBuilding.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Restart.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Rock.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Slinger.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/SlingerBuilding.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/Spara.png</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/StartaVald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/SvårtVald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/TillbakaVald.jpg</File>
+    <File>C:/Users/Blackus/source/repos/HOMMCopyCat Spelprojekt/HOMMCopyCat Spelprojekt/Content/White.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

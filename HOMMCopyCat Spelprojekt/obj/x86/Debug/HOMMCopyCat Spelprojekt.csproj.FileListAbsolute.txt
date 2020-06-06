@@ -1,0 +1,57 @@
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\HOMMCopyCat Spelprojekt.exe
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\HOMMCopyCat Spelprojekt.pdb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\obj\x86\Debug\HOMMCopyCat Spelprojekt.csprojAssemblyReference.cache
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\obj\x86\Debug\HOMMCopyCat Spelprojekt.csproj.CoreCompileInputs.cache
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\obj\x86\Debug\HOMMCopyCat Spelprojekt.csproj.CopyComplete
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\obj\x86\Debug\HOMMCopyCat Spelprojekt.exe
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\obj\x86\Debug\HOMMCopyCat Spelprojekt.pdb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\White.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\City.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Grass.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Rock.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\AvslutaVald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Bana1Vald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Bana2Vald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\LaddaInVald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\LättVald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\MedelVald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\NyttSpelVald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\SvårtVald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\TillbakaVald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\StartaVald.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\File.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\NextTurn.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Boris.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\KnightBuilding.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\PoisonMasterBuilding.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\PugilistBuilding.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\PyromancerBuilding.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\SlingerBuilding.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Knight.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\PoisonMaster.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Pugilist.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Pyromancer.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Slinger.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\System.ValueTuple.dll
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\System.ValueTuple.xml
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Enemy.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\FightingGrass.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\HOMMCopyCat Spelprojekt.exe.config
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Restart.xnb
+C:\Users\Blackus\source\repos\HOMMCopyCat Spelprojekt\HOMMCopyCat Spelprojekt\bin\Windows\x86\Debug\Content\Spara.xnb
